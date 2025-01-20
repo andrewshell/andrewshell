@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋🏻
 
-<img class="border-radius: 16px" src="https://raw.githubusercontent.com/andrewshell/andrewshell/master/banner.png" alt="banner that says Andrew Shell, Senior Web Developer, and a photo of Andrew with a text bubble saying Hoopla!">
+<img style="border-radius: 16px" src="https://raw.githubusercontent.com/andrewshell/andrewshell/master/banner.png" alt="banner that says Andrew Shell, Senior Web Developer, and a photo of Andrew with a text bubble saying Hoopla!">
 
 Hoopla! I'm Andrew Shell, a web developer from Madison, WI, passionate about coding and building tools that foster online communication and collaboration. I’ve founded Madison PHP and contributed to exciting projects like the RSS Cloud Server and Federated Wiki Feeds. These days, I’m diving deep into Node.js while managing community-driven projects and advocating for open formats that connect people and ideas.
 
