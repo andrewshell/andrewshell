@@ -12,5 +12,6 @@ Hoopla! I'm Andrew Shell, a web developer from Madison, WI, passionate about cod
 - [Mastodon](https://indieweb.social/@andrewshell) - Follow me in the Fediverse. 🐘  
 - [Blog](https://blog.andrewshell.org/) - Check out my thoughts and projects. 📝  
 
-![andrewshell's github stats](https://github-readme-stats.vercel.app/api?username=andrewshell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=239de7&icon_color=239de7&text_color=ffffff#gh-dark-mode-only)
-![andrewshell's github stats](https://github-readme-stats.vercel.app/api?username=andrewshell&show_icons=true&hide_border=true&bg_color=ffffff&title_color=239de7&icon_color=239de7&text_color=000000#gh-light-mode-only)
+
+[![andrewshell's github stats](https://github-readme-stats.vercel.app/api?username=andrewshell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=239de7&icon_color=239de7&text_color=ffffff)](https://github.com/andrewshell#gh-dark-mode-only)
+[![andrewshell's github stats](https://github-readme-stats.vercel.app/api?username=andrewshell&show_icons=true&hide_border=true&bg_color=ffffff&title_color=239de7&icon_color=239de7&text_color=000000)](https://github.com/andrewshell#gh-light-mode-only)
