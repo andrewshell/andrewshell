@@ -1,3 +1,26 @@
+<style>
+.readme a {
+  color: #239de7;
+}
+.stats-light {
+  display: block;
+}
+.stats-dark {
+  display: none;
+}
+@media (prefers-color-scheme: dark) {
+  .stats-light {
+    display: none;
+  }
+  .stats-dark {
+    display: block;
+  }
+}
+
+</style>
+
+<div class="readme">
+
 # Hi, I'm Andrew 👋🏻
 
 <img src="https://raw.githubusercontent.com/andrewshell/andrewshell/master/banner.png" alt="banner that says Andrew Shell, Senior Web Developer, and a photo of Andrew with a text bubble saying Hoopla!">
@@ -13,5 +36,8 @@ Hoopla! I'm Andrew Shell, a web developer from Madison, WI, passionate about cod
 - [Blog](https://blog.andrewshell.org/) - Check out my thoughts and projects. 📝  
 
 <p align="left">
-  <a href="https://github.com/andrewshell"><img src="https://github-readme-stats.vercel.app/api?username=andrewshell&show_icons=true&hide_border=true" alt="andrewshell's github stats"></a>
+  <a class="stats-light" href="https://github.com/andrewshell"><img src="https://github-readme-stats.vercel.app/api?username=andrewshell&show_icons=true&hide_border=true&bg_color=ffffff&title_color=239de7&icon_color=239de7&text_color=000000" alt="andrewshell's github stats"></a>
+  <a class="stats-dark" href="https://github-readme-stats.vercel.app/api?username=andrewshell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=239de7&icon_color=239de7&text_color=ffffff" alt="andrewshell's github stats"></a>
 </p>
+
+</div>
